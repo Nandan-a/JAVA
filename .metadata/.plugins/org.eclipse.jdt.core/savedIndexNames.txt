@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+/home/diot/JAVA/.metadata/.plugins/org.eclipse.jdt.core
+3939171498.index
+4019193548.index
+349016200.index
+4125647954.index
+1865797976.index
+1532635603.index
+1906992885.index
+1863463909.index
+1924484980.index
+1146694272.index
+538316778.index
+3121874559.index
+2925201552.index

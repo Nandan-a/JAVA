@@ -1,0 +1,26 @@
+package com.cdac.inh;
+
+
+
+public class Car extends Accelartor implements Brakeable{
+//	public void brake() {
+//		
+//		
+//		System.out.println("Stopping the car!!");
+//	}
+	
+	public static void main(String[] args) {
+		Car c = new Car();
+		c.accelarator();
+		c.brake();
+		
+	}
+
+@Override
+public void brake() {
+	System.out.println("Stopping the car!!");
+	
+}
+
+
+}
